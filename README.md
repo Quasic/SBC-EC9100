@@ -18,12 +18,12 @@ These links are prone to dying because Embest is no longer a company. This compu
 ### Purchase
 #### Amazon
 These appear to be the same product:
-* 
+* https://www.amazon.com/dp/B0BHQMZGS2
 * https://www.amazon.com/SBC-EC9100-Computer-Freescale-Cortex-A7-Microcontroller/dp/B076LK5YTZ
 #### Other
 * Newark https://www.newark.com/embest/sbc-ec9100/sbc-cortex-a7-microcontroller/dp/97Y0871
 ## Review
-I purchased this for fun from the first Amazon link.
+I purchased this for fun from Amazon at https://www.amazon.com/dp/B0BHQMZGS2
 ### Box Contents
 The description said it included a CD, but it did not. It did have:
 * the single board computer
