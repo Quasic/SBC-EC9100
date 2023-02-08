@@ -12,14 +12,18 @@ Source code, flash images, and more information (from text file in this repo)
 These links are prone to dying because Embest is no longer a company. This computer is now supported by EMTOP-TECH. These are provided only for history.
 * http://www.embest-tech.com/product/single-board-computer/sbc-ec9100.html [dead]
 #### EMTOP-TECH
+* https://www.emtop-tech.com/product/sbc-ec9100/
 * GitHub (This was forked from) https://github.com/EMTOP-TECH/SBC-EC9100 includes manuals and URLs to software
 * Wiki: http://wiki.emtop-tech.com/display/EMTOPHOMEPAGE/SBC-EC9100 doesn't seem to have content yet [entire history is blank page creation]
 ### Purchase
 #### Amazon
+These appear to be the same product:
 * 
-* 
+* https://www.amazon.com/SBC-EC9100-Computer-Freescale-Cortex-A7-Microcontroller/dp/B076LK5YTZ
+#### Other
+* Newark https://www.newark.com/embest/sbc-ec9100/sbc-cortex-a7-microcontroller/dp/97Y0871
 ## Review
-I purchased this for fun from Amazon.
+I purchased this for fun from the first Amazon link.
 ### Box Contents
 The description said it included a CD, but it did not. It did have:
 * the single board computer
