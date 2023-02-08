@@ -1,12 +1,9 @@
 # SBC-EC9100
 ## Description
 This is a development single board computer for evaluation purposes (basically a cheap model to test with) made by Embest.
-
 ## Links
 ### Software
-Source code, flash images, and more information (from text file in this repo)
-* English 
-* Chinese 
+Source code, flash images, and more information (from [text file in this repo](Software_Download_Link.txt)) For convenience: [English](https://www.jianguoyun.com/p/DRdR2wAQ7L_aCRjPkeoEIAA) (Password : kgn50n)
 ### Support
 #### Embest
 These links are prone to dying because Embest is no longer a company. This computer is now supported by EMTOP-TECH. These are provided only for history.
