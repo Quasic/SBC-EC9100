@@ -7,6 +7,7 @@ Source code, flash images, and more information (from [text file in this repo](S
 ### Support
 #### Embest
 These links are prone to dying because Embest is no longer a company. This computer is now supported by EMTOP-TECH. These are provided only for history.
+* https://www.embest-tech.com.cn/product/sbc-ec9100/
 * http://www.embest-tech.com/product/single-board-computer/sbc-ec9100.html [dead]
 #### EMTOP-TECH
 * https://www.emtop-tech.com/product/sbc-ec9100/
